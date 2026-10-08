@@ -1,0 +1,12 @@
+{
+  "name": "college-aicte-vaani",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix AICTE-Website-EEE run dev",
+    "build": "npm --prefix AICTE-Website-EEE run build",
+    "start": "npm --prefix AICTE-Website-EEE run start",
+    "lint": "npm --prefix AICTE-Website-EEE run lint",
+    "postinstall": "npm --prefix AICTE-Website-EEE install"
+  }
+}

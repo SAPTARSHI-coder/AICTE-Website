@@ -1,0 +1,4 @@
+{
+  "buildCommand": "npm --prefix AICTE-Website-EEE run build",
+  "outputDirectory": "AICTE-Website-EEE/.next"
+}
