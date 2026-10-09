@@ -204,7 +204,7 @@ export default function Footer() {
               <ExternalLink className="w-3 h-3" />
             </a>{" "}
             <span className="text-slate-400 dark:text-slate-600">|</span> Department of Computer Science and Engineering{" "}
-            <span className="text-slate-400 dark:text-slate-600">|</span> Centre of Excellence In AI
+            <span className="text-slate-400 dark:text-slate-600">|</span> Centre of Excellence in AI
           </p>
 
           <div className="flex items-center gap-3 shrink-0">
